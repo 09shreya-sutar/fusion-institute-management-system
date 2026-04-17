@@ -6,7 +6,7 @@ This system provides a user-friendly interface and integrates all modules with a
 
 🚀 Features:-
 
-🔐 Login Authentication System
+🔐 Login Authentication System 
 
 🎓 Student Admission Management
 
@@ -24,25 +24,12 @@ This system provides a user-friendly interface and integrates all modules with a
 
 🗄️ MySQL Database Integration
 
+
 🛠️ Technologies Used:-
 
 Python, Tkinter (GUI), MySQL, PIL (Image Processing), ReportLab (PDF Generation), tkcalendar
 
-⚙️ How to Run:-
 
-1.Install dependencies:
-pip install pillow, mysql-connector-python, reportlab, tkcalendar
-
-2.Update MySQL credentials in the code:
-user="root"
-password="your_password"
-
-3.Run the project:
-python "institute management sys.py"
-
-4.Login:
-Username: admin
-Password: fusion123
 
 🖼️ Screenshots:-
 Login
@@ -66,6 +53,27 @@ Total Student list
 Staff Details
 <img width="1696" height="1011" alt="staff details" src="https://github.com/user-attachments/assets/a21cf631-f22f-45b3-86c5-fd0ec4ebd37a" />
 
+
+⚙️ How to Run:-
+
+1.Install dependencies:
+
+pip install pillow, mysql-connector-python, reportlab, tkcalendar
+
+2.Update MySQL credentials in the code:
+
+user="root"
+password="your_password"
+
+3.Run the project:
+
+python "institute management sys.py"
+
+4.Login:
+
+Username: admin
+
+Password: fusion123
 
 
 
